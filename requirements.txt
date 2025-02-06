@@ -1,0 +1,7 @@
+gymnasium
+numpy
+pandas
+plotly
+streamlit
+torch
+transformers
