@@ -420,7 +420,7 @@ def main():
         st.session_state.rpa_system = GroundStationRPA()
         
     # Main Navigation
-    st.sidebar.title("AstroForge")
+    st.sidebar.title("OrbitMind")
     page = st.sidebar.radio("Select System:", ["Mission Planning", "Ground Station RPA"])
     
     if page == "Mission Planning":
